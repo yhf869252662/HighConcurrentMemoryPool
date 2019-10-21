@@ -1,1 +1,2 @@
-# HighConcurrentMemoryPool
+# 高并发的内存池
+将之前写的内存池项目完善，在Release版本下可以实现比malloc还要快的多线程开辟和释放内存
