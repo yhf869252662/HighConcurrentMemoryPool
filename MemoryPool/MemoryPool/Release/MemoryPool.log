@@ -1,0 +1,11 @@
+﻿  benchmark.cpp
+  CentralCache.cpp
+  PageCache.cpp
+  ThreadCache.cpp
+  UnitTest.cpp
+  正在生成代码
+  588 of 594 functions (99.0%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  MemoryPool.vcxproj -> E:\HighConcurrentMemoryPool\MemoryPool\Release\MemoryPool.exe
